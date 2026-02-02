@@ -17,8 +17,8 @@
 <a href="https://github.com/jankimenon07-hue">
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
 </a>
-<a href="https://www.canva.com/design/DAFnf1sFZ8k/view?utm_content=DAFnf1sFZ8k&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">
-  <img src="https://img.shields.io/badge/Portfolio-1abc9c?style=flat&logo=google-chrome&logoColor=white"/>
+<a href="resume\Janki Pradish Menon Resume.pdf">
+  <img src="https://img.shields.io/badge/Resume-1abc9c?style=flat&logo=google-chrome&logoColor=white"/>
 </a>
 
 </div>
